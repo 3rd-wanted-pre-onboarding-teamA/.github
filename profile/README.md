@@ -1,15 +1,18 @@
 <div align="center" dir="auto">
   <img src="https://capsule-render.vercel.app/api?height=150&type=slice&section=header&color=F7DC75&text=Ateam%20=%20new%20WantedPreOnboarding();&fontSize=30&fontAlign=50&fontAlignY=50&fontColor=FF4F8B&rotate=10&animation=twinkling&stroke=E40046&strokeWidth=3" width=100%>
   <p dir="auto">
-    <b
-      >기업 실전 과제로 '현실' 직무를 미리 경험<br />
-      기업의 실전과제와 팀단위 동료학습을 단기간에 밀도있게 훈련하여 역량 향상</b
-    >
+    <b>기업 실전 과제로 '현실' 직무를 미리 경험<br />
+      기업의 실전과제와 팀단위 동료학습을 단기간에 밀도있게 훈련하여 역량 향상</b>
+      <div style="display:flex; justify-content: center; align-items:center; text-align:center;">
+        <div class="strong">code convention</div>
+        <div class="strong">git convention</div>
+        <div class="strong">pull request</div>
+        <div class="strong">kanban board</div>
+        <div class="strong">issues</div>
+      </div>
   </p>
   <br />
-  i. <b>케이스 스터디</b> - 실제 기업의 채용 과제를 통해 실무에서 마주하는 다양한 사례를 분석하며 자기주도적 문제 해결 역량을 키웁니다.<br />
-  ii. <b>동료 학습</b> - 동료와 함께 팀 프로젝트를 수행하며 다양한 반면교사, 정면교사 등의 충돌을 통해 소통과 협업 역량을 훈련합니다. <br />
-  <br/>
+
   <b>🌈 Team A members 🌈 </br></br>
   </b>
   <a href="https://github.com/syoungee">황선영</a>
@@ -18,6 +21,7 @@
   <a href="https://github.com/dapsu">장덕수</a>
 
   <br />
+
 
   <p dir="auto">
     <a
