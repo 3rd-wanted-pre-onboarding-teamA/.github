@@ -2,14 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?height=150&type=slice&section=header&color=F7DC75&text=Ateam%20=%20new%20WantedPreOnboarding();&fontSize=30&fontAlign=50&fontAlignY=50&fontColor=FF4F8B&rotate=10&animation=twinkling&stroke=E40046&strokeWidth=3" width=100%>
   <p dir="auto">
     <b>기업 실전 과제로 '현실' 직무를 미리 경험<br />
-      기업의 실전과제와 팀단위 동료학습을 단기간에 밀도있게 훈련하여 역량 향상</b>
-      <div style="display:flex; justify-content: center; align-items:center; text-align:center;">
-        <div class="strong">code convention</div>
-        <div class="strong">git convention</div>
-        <div class="strong">pull request</div>
-        <div class="strong">kanban board</div>
-        <div class="strong">issues</div>
-      </div>
+      기업의 실전과제와 팀단위 동료학습을 단기간에 밀도있게 훈련하여 역량 향상</b><br>
+      <img src="https://img.shields.io/badge/code covention-339933?style=flat&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/git covention-4479A1?style=flat&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pull request-527FFF?style=flat&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/kanban board-FF9900?style=flat&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/issues-000000?style=flat&logo=&logoColor=white"/>
   </p>
   <br />
 
