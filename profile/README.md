@@ -8,6 +8,7 @@
       <img src="https://img.shields.io/badge/pull request-527FFF?style=flat&logo=&logoColor=white"/>
       <img src="https://img.shields.io/badge/kanban board-FF9900?style=flat&logo=&logoColor=white"/>
       <img src="https://img.shields.io/badge/issues-000000?style=flat&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/comment-aaaaaa?style=flat&logo=&logoColor=white"/>
   </p>
   <br />
 
