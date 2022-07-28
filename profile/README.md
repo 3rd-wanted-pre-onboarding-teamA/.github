@@ -1,5 +1,5 @@
 <div align="center"">
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&color-auto&text=A team = new WantedPreOnboarding();&fontSize=30&width=100%&animation=twinkling" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=97dbad&height=100&section=header&fontColor=656966&text=A team = new WantedPreOnboarding();&fontSize=30&width=100%&animation=twinkling" /><br/>
 
   ## Backend-course
   
