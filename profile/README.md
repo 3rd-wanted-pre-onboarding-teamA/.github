@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2S&logoColor=white"/>
   </p>
   
-  ## <b> Team A members </br>
+  ## <b> Team A members 👋🏻 </br>
   <a href="https://github.com/syoungee">황선영</a>
   <a href="https://github.com/dltmddus1998">이승연</a>
   <a href="https://github.com/golgol22">허정연</a>
@@ -40,6 +40,6 @@
 | PayHere | 고객의 소비내역을 기록, 관리하는 REST API 구현 | [🐥to repo(click!)](https://github.com/3rd-wanted-pre-onboarding-teamA/payHere-Wanted-A) |
 | GameDuo | 보스레이드 PVE 콘텐츠를 위한 REST API 구현사용자 랭킹 조회, 동시성을 고려 | [🐷to repo(click!)](https://github.com/3rd-wanted-pre-onboarding-teamA/gameDuo-Wanted-A) |
 | IdeaConcert | AWS EC2, NGINX를 이용한 nodejs 웹서버 구축 | [🐻to repo(click!)](https://github.com/3rd-wanted-pre-onboarding-teamA/ideaConcert-Wanted-A) |
-| SNS service | sns-service를 위한 REST API 구현 |  |
+| SNS service | sns-service를 위한 REST API 구현 | 개인과제 🤍 |
 
 </div>
